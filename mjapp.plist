@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xkxcd.com:8080/ZZAPP/app.ipa</string>
+					<string>http://xkxcd.com:8080/zzapp/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zzerp.zzapp</string>
+				<string>com.zzerp.MJApp</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
